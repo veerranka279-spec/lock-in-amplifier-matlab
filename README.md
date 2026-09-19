@@ -8,6 +8,5 @@ Orthogonal (I/Q) lock-in amplifier simulated in MATLAB with a live GUI to recove
 3. Use the sliders to change noise level, phase shift and target frequency
 
 ## Video
-[Watch on YouTube]
 https://youtu.be/2SI6jrmNzLs
 Made for Signals and Systems Minor Project, SPIT Mumbai
